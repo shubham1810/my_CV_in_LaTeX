@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.3.17)  29 MAR 2016 14:17
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.3.17)  12 JUL 2016 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -870,7 +870,7 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 5.
 
-Overfull \hbox (67.42331pt too wide) in alignment at lines 2--13
+Overfull \hbox (67.42331pt too wide) in alignment at lines 2--12
 [] [] 
  []
 
@@ -888,10 +888,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 77.
 Here is how much of TeX's memory you used:
  28132 strings out of 493918
  493466 string characters out of 6150563
- 627575 words of memory out of 5000000
+ 629566 words of memory out of 5000000
  31105 multiletter control sequences out of 15000+600000
  7745 words of font info for 86 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 53i,12n,55p,10420b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,12n,55p,10420b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (2 pages).
